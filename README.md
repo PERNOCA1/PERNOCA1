@@ -6,7 +6,7 @@
 
 ## About me:
 
-I'm a Fullstack Developer
+-🖥 Studying Systems Development (Etec)
 
 I Love code and create new stuff, i like too much to discover new technologies and dive deep in solving problems.
 
